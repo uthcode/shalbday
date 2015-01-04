@@ -8,7 +8,7 @@
 		<name>Bangalore</name>
 		<description>Many more happy returns of the day, Shalini.. :) City awaits you.</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/Bangalore.jpg</href>
+			<href>http://www.uthcode.com/shalbday/Bangalore.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -22,7 +22,7 @@
 		<name>Great Wall of China</name>
 		<description>Wishes you a very Happy Birthday!</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/GreatWall.jpg</href>
+			<href>http://www.uthcode.com/shalbday/GreatWall.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -36,7 +36,7 @@
 		<name>Eiffel Tower</name>
 		<description>Happy Birthday, Shalini.</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/EffeilTower.jpg</href>
+			<href>http://www.uthcode.com/shalbday/EffeilTower.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -50,7 +50,7 @@
 		<name>Empire State, New York</name>
 		<description>Happy Birthday, Shalu dear! :)</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/EmpireState.jpg</href>
+			<href>http://www.uthcode.com/shalbday/EmpireState.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -64,7 +64,7 @@
 		<name>Taj Mahal</name>
 		<description>Happy Birthday, Shalini!</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/TajMahal.jpg</href>
+			<href>http://www.uthcode.com/shalbday/TajMahal.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -78,7 +78,7 @@
 		<name>Egyptian Pyramids</name>
 		<description>Happy Birthday, Queen Shalini. :)</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/Egypt.jpg</href>
+			<href>http://www.uthcode.com/shalbday/Egypt.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -92,7 +92,7 @@
 		<name>Colloseum Salutes!</name>
 		<description>Shalini, may you live long.</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/Rome.jpg</href>
+			<href>http://www.uthcode.com/shalbday/Rome.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -106,7 +106,7 @@
 		<name>Leaning Tower of Pisa</name>
 		<description>Happy Birthday, Shalini!</description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/Pisa.jpg</href>
+			<href>http://www.uthcode.com/shalbday/Pisa.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
@@ -120,7 +120,7 @@
 		<name>Singapore</name>
 		<description><![CDATA[<h2> Many more happy returns of the day, Shalini dear. </h2>]]></description>
 		<Icon>
-			<href>http://uthcode.googlecode.com/svn/trunk/shalbday/Singapore.jpg</href>
+			<href>http://www.uthcode.com/shalbday/Singapore.jpg</href>
 			<viewBoundScale>0.75</viewBoundScale>
 		</Icon>
 		<LatLonBox>
