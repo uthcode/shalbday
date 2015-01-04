@@ -21,8 +21,7 @@
             ge.getWindow().setVisibility(true);
             ge.getNavigationControl().setVisibility(ge.VISIBILITY_SHOW);
 
-            //var href = 'http://code.google.com/apis/kml/documentation/kmlfiles/complete_tour_example.kml';
-	    var href = 'http://uthcode.googlecode.com/svn/trunk/shalbday/happybirthdayshalini_nomusic.kml';
+	        var href = 'http://www.uthcode.com/shalbday/happybirthdayshalini_nomusic.kml';
             google.earth.fetchKml(ge, href, fetchCallback);
 
             function fetchCallback(fetchedKml) {
